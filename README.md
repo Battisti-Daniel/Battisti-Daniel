@@ -1,5 +1,14 @@
-### Hi there 👋
+* I'm currently working on Python and C# :snake: 
 
+* I'm currently studing Computer Science :computer:
+
+* 🇧🇷 🇺🇸 🇯🇵
+
+* Looking for a job
+ 
+* 📃 www.linkedin.com/in/battistidaniel 
+ 
+* 📫 Danielbattisti@outlook.com.br
 <!--
 **Battisti-Daniel/Battisti-Daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

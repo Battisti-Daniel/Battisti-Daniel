@@ -9,7 +9,7 @@
  <a href = "Danielbattisti@outlook.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 ### Working with
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/cpp-original.svg" width="40" height="40"/><img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" width="40" height="40"/><img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
 
 <div>

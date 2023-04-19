@@ -1,10 +1,12 @@
 * Computer Science
 
-* Brazilian
+* Brazil
 
 * pt/en/jp
 
-* Artificial Intelligence
+* Artificial Intelligence,languages,technology
+
+* Constant learning
  
  <a href="https://www.linkedin.com/in/battistidaniel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  [<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />](https://www.codewars.com/users/Deniboyz)

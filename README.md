@@ -1,31 +1,22 @@
-* Computer Science
+#HELLO, I'M Daniel!
 
-* Brazil
+![](https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif)
 
-* pt/en/jp
+#About
 
-* Artificial Intelligence,languages,technology
+I'm 23 years old.
 
-* Constant learning
- 
-* New 2023
+```cpp
 
- <a href="https://www.linkedin.com/in/battistidaniel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- [<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />](https://www.codewars.com/users/Deniboyz)
-          
+#include "Daniel.hpp"
 
-          
-<!--
-**Battisti-Daniel/Battisti-Daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+int main() {
 
-Here are some ideas to get you started:
+    Daniel *person = new Daniel();
+    person->code();
+    delete person;
+    return 0;
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Check my repositories

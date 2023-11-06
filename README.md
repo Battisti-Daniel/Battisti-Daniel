@@ -6,6 +6,12 @@
 
 I'm 23 years old.
 
+# Let's talk
+<a href="https://www.linkedin.com/in/battistidaniel/">
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" target="_blank" width="40" heigh="auto">
+</a>
+
+
 ```cpp
 
 #include "Daniel.hpp"

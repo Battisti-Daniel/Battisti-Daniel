@@ -10,6 +10,7 @@ I'm 23 years old.
 <a href="https://www.linkedin.com/in/battistidaniel/">
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" target="_blank" width="40" heigh="auto">
 </a>
+<br><br>
 
 
 ```cpp

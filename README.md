@@ -23,8 +23,6 @@ int main() {
     person->code();
     return 0;
 }
-
-}
 ```
 
 # Check my repositories

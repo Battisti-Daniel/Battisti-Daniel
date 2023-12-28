@@ -16,13 +16,14 @@ I'm 23 years old.
 ```cpp
 
 #include "Daniel.hpp"
+#include <memory>
 
 int main() {
-
-    Daniel *person = new Daniel();
+    std::unique_ptr<Daniel> person = std::make_unique<Daniel>();
     person->code();
-    delete person;
     return 0;
+}
+
 }
 ```
 

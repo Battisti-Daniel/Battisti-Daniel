@@ -4,25 +4,13 @@
 
 # About
 
-I'm 23 years old.
+Age : 24
+<br>
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
+![Japan](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/jp.png "Japan")
 
-# Let's talk
+# LinkedIn
 <a href="https://www.linkedin.com/in/battistidaniel/">
   <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" target="_blank" width="40" heigh="auto">
 </a>
-<br><br>
-
-
-```cpp
-
-#include "Daniel.hpp"
-#include <memory>
-
-int main() {
-    std::unique_ptr<Daniel> person = std::make_unique<Daniel>();
-    person->code();
-    return 0;
-}
-```
-
-# Check my repositories

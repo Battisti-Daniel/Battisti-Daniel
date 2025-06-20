@@ -3,13 +3,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/battistidaniel/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)]()
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)]()
 
 ### 🔭 About Me
 Data professional and ever-evolving technology enthusiast. Currently diving deep into **Data Science** and **Analytics Engineering**, while nurturing a parallel passion for **Computer Graphics**. I love exploring how data and visualization synergize to create innovative solutions.
 
 ### 🛠 Technical Arsenal
-- **Languages:** Python, C++, PHP
+- **Languages:** Python, C++, Java
 - **Data Stack:** Pandas, NumPy, Scikit-learn, SQL, ETL/ELT
 - **Graphics:** OpenGL, Blender basics
 - **Tools:** Git, Docker, Jupyter, Cloud Platforms (AWS/GCP)

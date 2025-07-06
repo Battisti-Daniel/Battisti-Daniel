@@ -8,7 +8,7 @@
 ### About Me
 Data professional and ever-evolving technology enthusiast. Currently diving deep into **Data Science** and **Analytics Engineering**, while nurturing a parallel passion for **Computer Graphics**. I love exploring how data and visualization synergize to create innovative solutions.
 
-### 🛠 Technical Arsenal
+### Technical Arsenal
 - **Languages:** Python, C++, Java
 - **Data Stack:** Pandas, NumPy, Scikit-learn, SQL, ETL/ELT
 - **Graphics:** OpenGL, Blender basics

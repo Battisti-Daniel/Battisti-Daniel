@@ -1,22 +1,12 @@
-# I'm Daniel Battisti
+# Hi, I'm Daniel Battisti
 
-💻 Computer Science   
-☕ Java & backend
+# About
 
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)]()
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)]()
-
----
-
-## About
-
-I'm a Computer Science undergraduate who enjoys building things and understanding how they work under the hood.  
-Most of my time goes into backend development with Java, learning Spring, and experimenting with different ideas and tools.
-
-I like clean code, simple solutions, and learning by doing.  
-This GitHub is a mix of studies, experiments, and personal projects.
+Computer Science <br>
+Game development <br>
+Engine Development <br>
+Java, Typescript and :coffee: <br>
+Most of my time goes into backend development with Java and studing about cloud and infra
 
 ## Get in touch
 

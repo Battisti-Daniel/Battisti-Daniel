@@ -5,7 +5,7 @@
 Computer Science <br>
 Game development <br>
 Java, Typescript and :coffee: <br>
-Most of my time goes into backend development with Java and studing about cloud and infra
+Most of my time goes into backend development with :coffee:
 
 ## Get in touch
 

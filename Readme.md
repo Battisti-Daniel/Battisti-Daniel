@@ -3,9 +3,7 @@
 # About
 
 Computer Science <br>
-Game development <br>
-Java, Typescript and :coffee: <br>
-Most of my time goes into backend development with :coffee:
+Most of my time goes into development with :coffee:
 
 ## Get in touch
 
